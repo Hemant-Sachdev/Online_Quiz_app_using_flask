@@ -14,8 +14,7 @@ This is a simple **Python Fundamentals Quiz** web application built using Flask.
 ## Technologies Used
 
 - **Backend**: Flask (Python)
-- **Frontend**: HTML, CSS (Optional for styling)
-- **Templating**: Jinja2 (Flask's default template engine)
+- **Frontend**: HTML5, CSS, Bootstrap5.3(CSS Framework)
 
 ## Installation & Setup
 
@@ -51,3 +50,12 @@ Follow these steps to set up and run the application locally:
 - On the homepage, click **Start Quiz** to begin.
 - Answer all the questions by selecting the appropriate option.
 - Submit the quiz to see your score.
+
+## Sample Web App Screenshot
+
+Below is a sample screenshot of the Python Fundamentals Quiz web application:
+![image](https://github.com/user-attachments/assets/fc8aa88e-a19b-41a4-9096-830899c34363)
+![image](https://github.com/user-attachments/assets/745a5f0c-eb9d-4fa8-95ff-a42985b0c84b)
+![image](https://github.com/user-attachments/assets/bc1222cd-6f45-4253-8f8a-74b06d89058b)
+![image](https://github.com/user-attachments/assets/d0358074-f044-459a-9c6a-f567fdfae980)
+
